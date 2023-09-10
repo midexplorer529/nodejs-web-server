@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "express": "4.13.2"
+    "express": "4.13.2",
+    "heroku-client": "^3.1.0"
   }
 }
